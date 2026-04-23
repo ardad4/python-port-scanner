@@ -24,7 +24,7 @@ Libraries used: socket, time, sys, datetime, concurrent.futures
 
 Clone the repository:
 
-git clone https://github.com/ardad4/python-port-scanner.git
+git clone [https://github.com/ardad4/python-port-scanner.git](https://github.com/ardad4/python-port-scanner.git)
 cd python-port-scanner
 
 
@@ -43,7 +43,7 @@ End Port (Default 1024): 1000
  Example Output
 
 ----------------------------------------------------------------------
-                        PORT SCANNER 
+                PYTHON PORT SCANNER
      [Port Resolution, Banner Grabbing & Reporting]
 ----------------------------------------------------------------------
 Target IP      : 45.33.32.156
@@ -56,7 +56,7 @@ Scanning in progress, please wait...
 [+] Port 80    : OPEN (HTTP) [Banner: HTTP/1.1 400 Bad Request | Server: nginx/1.4.6 (Ubuntu)...]
 
 ======================================================================
- SCAN REPORT SUMMARY
+ 📊 SCAN REPORT SUMMARY
 ======================================================================
 Total of 2 open ports found:
 
