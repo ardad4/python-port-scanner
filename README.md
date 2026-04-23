@@ -56,7 +56,7 @@ Scanning in progress, please wait...
 [+] Port 80    : OPEN (HTTP) [Banner: HTTP/1.1 400 Bad Request | Server: nginx/1.4.6 (Ubuntu)...]
 
 ======================================================================
- 📊 SCAN REPORT SUMMARY
+  SCAN REPORT SUMMARY
 ======================================================================
 Total of 2 open ports found:
 
